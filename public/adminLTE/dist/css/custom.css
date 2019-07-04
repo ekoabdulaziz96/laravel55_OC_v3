@@ -1,0 +1,19 @@
+/*.modal-header ,.modal-footer {
+	background-color: #309BD4;
+}*/
+
+.modal-header-add ,.modal-footer-add {
+	background-color: #2DD779;
+}
+
+.modal-header-show ,.modal-footer-show {
+	background-color: #4C85DA;
+}
+
+.modal-header-edit ,.modal-footer-edit {
+	background-color: #D7BD2D;
+}
+
+.modal-header-delete ,.modal-footer-delete {
+	background-color: #E27F8D;
+}
